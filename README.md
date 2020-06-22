@@ -2,18 +2,6 @@
 
 **WalkWithMe Application**
 
-Team Tech Intellect:
-
-| Name              | Student ID    | E-mail |
-| ------            | ------        | ------ |
-| Aniruddha Chitley | B00808320     | aniruddha.chitley@dal.ca |
-| Deep Shah         | B00796368     | dp371796@dal.ca |
-| Harsh Pamnani     | B00802614     | hr340096@dal.ca |
-| Nitish Bhardwaj   | B00811535     | nitish_bhardwaj@dal.ca |
-| Ueli Haltner      | B00526617     | Ueli.Haltner@dal.ca |
-
-Git repository location: [GitLab/WalkWithMe](https://git.cs.dal.ca/chitley/walkwithme)
-
 # Project Summary
 WalkWithMe is a platform where users can find and create nearby walking groups in the city of Halifax, Nova Scotia. The goal is to develop networking events, encourage social experiences, and offer a low cost exercise alternative. The architecture of the application consists of three main screens so that the user can view the list of nearby walking events, create a new walking event, and get additional details about a selected event. Weather details are displayed to the user on the details page if the walk is occurring within the following five days. Additionally, the list of walks is sorted by the shortest distance to the user if the location permissions are accepted. All walks are stored in a Firebase database which is partitioned for walk text data and image files.
 
